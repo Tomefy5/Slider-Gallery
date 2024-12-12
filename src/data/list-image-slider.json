@@ -1,0 +1,44 @@
+[
+    {
+        "index": 1,
+        "title":"Big Rock",
+        "url":"../../public/assets_slider/adam-kool-ndN00KmbJ1c-unsplash.jpg",
+        "description":"Forest under a big rock"
+    },
+    {
+        "index": 2,
+        "title":"Kitchen",
+        "url":"../../public/assets_slider/becca-tapert-mDOGXiuVb4M-unsplash.jpg",
+        "description":"Many tools for cooking"
+    },
+    {
+        "index": 3,
+        "title":"Office table",
+        "url":"../../public/assets_slider/emile-perron-xrVDYZRGdw4-unsplash.jpg",
+        "description":"laptop and books on table"
+    },
+    {
+        "index": 4,
+        "title":"White and Black",
+        "url":"../../public/assets_slider/fabrizio-conti-m5fHSKYSflI-unsplash.jpg",
+        "description":"nature in white and black"
+    },
+    {
+        "index": 5,
+        "title":"Wild dog",
+        "url":"../../public/assets_slider/jonatan-pie-xgTMSz6kegE-unsplash.jpg",
+        "description":"wild dog in Antarctica"
+    },
+    {
+        "index": 6,
+        "title":"Developer",
+        "url":"../../public/assets_slider/mohammad-rahmani-gA396xahf-Q-unsplash.jpg",
+        "description":"a developer in front of his laptop"
+    },
+    {
+        "index": 7,
+        "title":"Kharawala",
+        "url":"../../public/assets_slider/ricky-kharawala-adK3Vu70DEQ-unsplash.jpg",
+        "description":"animal likes rat in snow"
+    }
+]
